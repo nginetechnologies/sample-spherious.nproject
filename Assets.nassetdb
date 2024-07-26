@@ -1,0 +1,24 @@
+{
+    "6c424233-1050-2803-5afd-5fa06045039a": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "a75c300d-a586-4c74-a52a-3d13aadeaff3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Spherious.scene.nasset"
+    },
+    "b0483674-7885-4dac-b5db-f4b59f99e209": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Spherious",
+        "thumbnail": "378a86a4-d3e4-8575-62aa-f6c3cd36bc67",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "6c424233-1050-2803-5afd-5fa06045039a",
+    "imported_assets": [
+        "378a86a4-d3e4-8575-62aa-f6c3cd36bc67"
+    ]
+}
